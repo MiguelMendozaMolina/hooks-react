@@ -4,7 +4,6 @@ import User from './User';
 import ThemedButton from './ThemedButton';
 import CounterWithReducer from './CounterWithReducer';
 import TextInputWithFocusButton from './TextInputWithFocusButton';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
